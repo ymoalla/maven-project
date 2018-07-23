@@ -1,6 +1,6 @@
-# maven-project
-Source code for James Lee's Jenkins course.
+Simple helloword project to test CI/CD with Jenkins
 
-Check out our Latest DevOps PDF book.
+It's a maven Project
 
-https://www.level-up.one/devops-pdf-book
+
+
