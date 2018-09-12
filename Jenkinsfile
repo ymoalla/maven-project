@@ -1,12 +1,12 @@
 pipeline {
      agent any
 environment {
-    PATH = "/home/vagrant/apache-maven-3.5.3/bin:$PATH"
+    PATH = "/home/vagrant/apache-maven-3.5.3"
   }
      stages{
        stage('Build'){
          steps{
-           sh 'mvn clean package'
+           sh '$PATH/mvn clean package'
             
             }
   }
