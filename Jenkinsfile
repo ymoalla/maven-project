@@ -6,7 +6,7 @@ environment {
      stages{
        stage('Build'){
          steps{
-           sh '$PATH/mvn clean package'
+           /bin/sh '$PATH/mvn clean package'
             
             }
   }
