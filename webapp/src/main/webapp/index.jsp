@@ -1,2 +1,2 @@
 Hello, World!
-Build from docker image
+Mise à jour du 25/10/2018
