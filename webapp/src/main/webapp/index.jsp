@@ -1,2 +1,1 @@
-Hello, World!
-Build from docker image
+Test de pipeline View
